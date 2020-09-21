@@ -1,0 +1,32 @@
+header{
+  background-color:#26d0c9;
+  color:white;
+  height:90px;
+
+}
+li{
+  list-style:none;
+}
+.header-logo {
+  float:left;
+  padding-left: : 20px 40px;
+  font-size: 36px;
+}
+.header-list li{
+  float:left;
+  padding:33px 20px;
+}
+main{
+  padding:100px 80px;
+}
+.copy-container h1{
+  font-size:120px;
+  background-image:url("https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/08/s6-homepage-update/apex-hero-medium-s6-keyart-homepage-16x9-s-xs.jpg.adapt.crop16x9.320w.jpg");
+  background-size:cover;
+  color:white;
+  padding-top: 180px;
+  padding-bottom: 150px;
+}
+.copy-container h2{
+  font-size:60px;
+}
